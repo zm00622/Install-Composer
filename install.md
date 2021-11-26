@@ -1,6 +1,6 @@
 https://getcomposer.org/basic-usage
 
-# Locally
+# Locally Install Composer
 
 To install Composer locally, run the installer in your project directory. See the Download page for instructions.
 
@@ -12,3 +12,7 @@ You can install Composer to a specific directory by using the --install-dir opti
 
 php composer-setup.php --install-dir=bin --filename=composer
 Now run php bin/composer in order to run Composer.
+
+# Locally Install Laravel
+
+https://laravel.com/docs/8.x/installation#getting-started-on-macos
